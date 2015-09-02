@@ -141,10 +141,8 @@ will be made up of 4 members. They are the Board of governance of the
 organisation. This includes the chair person, a treasurer and two other office bearers.
 
 4.2 Termofoffice:Office
-bearers will serve for a period of
-
-years which has been agreed to by the general membership at an AGM, and
-which shall not exceeding three years. They can, however, stand for
+bearers will serve for a period of 1 year which has been agreed to by 
+the general membership at an AGM. They can, however, stand for
 re-election for another term in office again and again after that, for
 so long as their services are needed and they are ready to give their
 services.
