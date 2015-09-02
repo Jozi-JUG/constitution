@@ -80,12 +80,11 @@ DOWN............................................................................
 
 1.NAME
 
-1.1 The organisation hereby constituted will be called
+1.1 The organisation hereby constituted will be called Jozi-JUG
 
-1.2 Its shortened name will be to as the
-organisation).![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHoAAAABCAYAAAARvLrmAAAACXBIWXMAAA7HAAARwQF5smy9AAAAIUlEQVR4nGN5//69wLRp07IYRsGwAIyMjP+FhYXfoosDAL23Bzbj/0YLAAAAAElFTkSuQmCC)
+1.2 Its shortened name will be to as the Jozi-JUG
 
-_(Hereinafter referred
+_(Hereinafter referred to as Jozi-JUG)
 
 
 
@@ -112,16 +111,8 @@ different office bearers.
 
 The organisation’s main objectives are to:
 
-(*Pleasenotethattheobjective/sofanNPOmust
-beofapublicbenefit
-natureor
-relatingtocommunalor
-groupinterest
-orconcernedwithculturalorsocialactivitiesundertaken
-forthesolepurposeofnot
-making a profit).*
-
-
+The Jozi Java User Group is for those who are interested in physically meeting to discuss Java and related technologies.
+It will not make a profit.
 
 
 
