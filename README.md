@@ -115,7 +115,6 @@ The Jozi Java User Group is for those who are interested in physically meeting t
 It will not make a profit.
 
 
-
  (e.g.Provide community services)
 
 
@@ -138,8 +137,8 @@ mainly deals with food access to households.
 4.GOVERNING STRUCTURE AND MECHANISM OF GOVERNANCE
 
 4.1 The Office Bearers will oversee the organisation. The Office Bearers
-will be made up of _members. They are the Board of governance of the
-organisation.
+will be made up of 4 members. They are the Board of governance of the
+organisation. This includes the chair person, a treasurer and two other office bearers.
 
 4.2 Termofoffice:Office
 bearers will serve for a period of
