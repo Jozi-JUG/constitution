@@ -91,7 +91,7 @@ _(Hereinafter referred
 
 
 
-2.BODYCORPORATE
+2.BODY CORPORATE
 
 The organisation shall:
 
@@ -144,8 +144,7 @@ mainly deals with food access to households.
 
 
 
-4.GOVERNINGSTRUCTUREANDMECHANISMOF
-GOVERNANCE
+4.GOVERNING STRUCTURE AND MECHANISM OF GOVERNANCE
 
 4.1 The Office Bearers will oversee the organisation. The Office Bearers
 will be made up of _members. They are the Board of governance of the
@@ -177,8 +176,7 @@ that person’s place.
 
 
 
-5.POWERSOF
-THEORGANISATION
+5.POWERS OF THE ORGANISATION
 
 5.1 The Board shall carry out the powers on behalf of the organisation
 and they shall manage the affairs of the organisation in accordance with
@@ -282,7 +280,7 @@ arising.
 
 
 
-6.2SpecialGeneralMeetings
+6.2Special General Meetings
 
 6.2.1 The Special General Meeting (SGM) or any other special meeting is
 
@@ -302,7 +300,7 @@ guidance of the general members of the organisation to take up issues
 that require urgent attention and cannot wait until the next regular AGM
 or ordinary meeting.
 
-6.3OrdinaryMeetings
+6.3 Ordinary Meetings
 
 6.3.1 Ordinary members meetings are conducted to complete a standard
 
@@ -319,7 +317,7 @@ Board.
 
 
 
-6.4NoticesofMeetings
+6.4 Notices of Meetings
 
 6.4.1 The Chairperson of the Board shall convene meetings. The Secretary
 must let all Board members know the date of the proposed meeting within
@@ -349,7 +347,7 @@ have received notice of such meeting.
 
 
 
-6.5Quorums
+6.5 Quorums
 
 6.4.7 Quorums for all meetings of the organisation shall be a simple
 majority
@@ -382,7 +380,7 @@ a quorum is present.
 
 
 
-6.6ProceduresatMeetings
+6.6 Procedures at Meetings
 
 6.4.12 The Board may regulate its meetings and proceedings as it deems
 fit, subject to the following:
@@ -400,8 +398,7 @@ present at the meeting shall elect a chairperson for that meeting.
 
 
 
-6.7Making
-decisionsinmeetings
+6.7Making decisions in meetings
 
 6.4.13 Where possible, the decisions of the organisations shall be taken
 by
@@ -427,7 +424,7 @@ with in terms of clauses 9 and 10 of this constitution.
 
 
 
-6.8Recordsofmeetings
+6.8Records of meetings
 
 6.4.18 Proper minutes and attendance records must be kept for all
 meetings
@@ -445,7 +442,7 @@ members to consult.
 
 
 
-7.INCOMEANDPROPERTY
+7.INCOME AND PROPERTY
 
 7.1 The organisation will keep a record of everything it owns.
 
@@ -469,7 +466,7 @@ things that belong to the organisation.
 
 
 
-8.FINANCESANDREPORTS
+8.FINANCES AND REPORTS
 
 8.1 BankAccount: The Board must open a
 bank account in the name of the organisation with a registered Bank.
@@ -511,8 +508,7 @@ the Stock Exchange Control Act, 1985 (as amended). The organisation can
 go to different banks to seek advice on the best way to look after its
 funds.
 
-9.AMENDMENTS
-TOTHECONSTITUTION
+9.AMENDMENTS TO THE CONSTITUTION
 
 9.1 The constitution can only be changed by a resolution. The resolution
 has to be agreed upon and passed by not less than two thirds (⅔) (or at
@@ -542,7 +538,7 @@ down or stop to function or die away.
 
 
 
-10.DISSOLUTION/CLOSINGDOWN
+10.DISSOLUTION/CLOSING DOWN
 
 10.1 The organisation may dissolve or close down if at least two th ird
 s (⅔) of the members present and voting at a meeting convened for the
