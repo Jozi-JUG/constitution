@@ -151,8 +151,8 @@ services.
 soon as reasonably possible, appoint someone to fill any vacancy that
 reduced the number of Office Bearers.
 
-4.4 Resignation:An Office Bearer may resign from
-office in writing.
+4.4 Resignation:An Office Bearer may resign from office in writing to 
+jozijug-committee@googlegroups.com and give 30 days notice.
 
 4.5 Disqualification
 orRemovalIf an Office Bearer does not attend
