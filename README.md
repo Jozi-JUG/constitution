@@ -80,12 +80,11 @@ DOWN............................................................................
 
 1.NAME
 
-1.1 The organisation hereby constituted will be called
+1.1 The organisation hereby constituted will be called Jozi-JUG
 
-1.2 Its shortened name will be to as the
-organisation).![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHoAAAABCAYAAAARvLrmAAAACXBIWXMAAA7HAAARwQF5smy9AAAAIUlEQVR4nGN5//69wLRp07IYRsGwAIyMjP+FhYXfoosDAL23Bzbj/0YLAAAAAElFTkSuQmCC)
+1.2 Its shortened name will be to as the Jozi-JUG
 
-_(Hereinafter referred
+_(Hereinafter referred to as Jozi-JUG)
 
 
 
@@ -112,17 +111,8 @@ different office bearers.
 
 The organisation’s main objectives are to:
 
-(*Pleasenotethattheobjective/sofanNPOmust
-beofapublicbenefit
-natureor
-relatingtocommunalor
-groupinterest
-orconcernedwithculturalorsocialactivitiesundertaken
-forthesolepurposeofnot
-making a profit).*
-
-
-
+The Jozi Java User Group is for those who are interested in physically meeting to discuss Java and related technologies.
+It will not make a profit.
 
 
  (e.g.Provide community services)
@@ -147,14 +137,12 @@ mainly deals with food access to households.
 4.GOVERNING STRUCTURE AND MECHANISM OF GOVERNANCE
 
 4.1 The Office Bearers will oversee the organisation. The Office Bearers
-will be made up of _members. They are the Board of governance of the
-organisation.
+will be made up of 4 members. They are the Board of governance of the
+organisation. This includes the chair person, a treasurer and two other office bearers.
 
 4.2 Termofoffice:Office
-bearers will serve for a period of
-
-years which has been agreed to by the general membership at an AGM, and
-which shall not exceeding three years. They can, however, stand for
+bearers will serve for a period of 1 year which has been agreed to by 
+the general membership at an AGM. They can, however, stand for
 re-election for another term in office again and again after that, for
 so long as their services are needed and they are ready to give their
 services.
@@ -163,8 +151,8 @@ services.
 soon as reasonably possible, appoint someone to fill any vacancy that
 reduced the number of Office Bearers.
 
-4.4 Resignation:An Office Bearer may resign from
-office in writing.
+4.4 Resignation:An Office Bearer may resign from office in writing to 
+jozijug-committee@googlegroups.com and give 30 days notice.
 
 4.5 Disqualification
 orRemovalIf an Office Bearer does not attend
