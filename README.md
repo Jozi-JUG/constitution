@@ -160,6 +160,7 @@ three meetings in a row, without having applied for and obtaining leave
 of absence from the Board, then the Board will find a new member to take
 that person’s place.
 
+4.6 An Office Bearer shall be a natural person acting in their personal capacity.
 
 
 
