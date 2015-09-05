@@ -124,7 +124,7 @@ It will not make a profit.
 ​b) The organisation’s secondary objectives will be to:
 
 
-
+Promote equality and diversity in the Jozi-JUG and industry.
 
 
  (e.g. To work in collaboration with other organisations that
